@@ -22,7 +22,7 @@ def _start(client, message):
                         "Channel 📢", url=f"https://t.me/{UPDATES_CHANNEL}")
                 ],[
                     InlineKeyboardButton(
-                        "🔥 Source Code 🔥", url=f"https://{SOURCE_CODE}")
+                        "🔥 ○OWNER○ 🔥", url=f"https://t.me/SHIVAM9412")
                 ]
             ]
         ),
